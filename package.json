@@ -1,0 +1,21 @@
+{
+  "name": "console-warning-loader",
+  "version": "0.1.0",
+  "description": "webpack loader that logs warnings for matching files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guitarmanvt/console-warning-loader"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "console",
+    "warning"
+  ],
+  "author": "John Samuel Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guitarmanvt/console-warning-loader/issues"
+  }
+}
